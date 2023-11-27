@@ -1,8 +1,11 @@
 {
   "name": "heart_rate_zone_calculator",
   "version": "0.0.0",
+  "homepage": "https://cm-clodos.github.io/heart_rate_zone_calculator/",
   "private": true,
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist",
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview",
@@ -21,6 +24,7 @@
     "@vue/eslint-config-prettier": "^8.0.0",
     "eslint": "^8.49.0",
     "eslint-plugin-vue": "^9.17.0",
+    "gh-pages": "^6.1.0",
     "prettier": "^3.0.3",
     "vite": "^4.4.11"
   }
