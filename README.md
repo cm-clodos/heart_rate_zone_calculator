@@ -1,6 +1,7 @@
 # heart_rate_zone_calculator
 
-This template should help get you started developing with Vue 3 in Vite.
+Berechne anhand der Herzfrequenz die Herzfrequenz-Zonen. Für ideale Trainingsergebnisse.
+Für mehr Informationen siehe https://www.polar.com/blog/de/effektives-training-mit-herzfrequenz-zonen/
 
 ## Recommended IDE Setup
 
@@ -32,4 +33,10 @@ npm run build
 
 ```sh
 npm run lint
+```
+
+## Project Deployment on GitHub Pages
+
+```sh
+npm run deploy
 ```
