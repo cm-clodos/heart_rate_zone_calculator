@@ -1,7 +1,7 @@
 {
   "name": "heart_rate_zone_calculator",
   "version": "0.0.0",
-  "homepage": "https://cm-clodos.github.io/heart_rate_zone_calculator/",
+  "homepage": "https://heartratecalculator.claudiamartinez.ch/",
   "private": true,
   "scripts": {
     "predeploy": "npm run build",
