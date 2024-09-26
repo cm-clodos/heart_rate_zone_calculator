@@ -14,17 +14,17 @@ export default defineConfig({
         name: 'Heartrate Zone Calculator',
         short_name: 'Heartrate Zone Calculator',
         description: 'Beschreibung der App',
-        theme_color: '#ffffff',
+        theme_color: '#dd2e44',
         background_color: '#ffffff',
         display: 'standalone',
         icons: [
           {
-            src: 'icons/android-chrome-192x192.png',
+            src: '/android-chrome-192x192.png',
             sizes: '192x192',
             type: 'image/png'
           },
           {
-            src: 'icons/android-chrome-512x512.png',
+            src: '/android-chrome-512x512.png',
             sizes: '512x512',
             type: 'image/png'
           }
